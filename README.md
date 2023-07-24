@@ -1,5 +1,5 @@
 # Calendar-Example
-<br><br><br>
+![calendar 예제 사진]()
 
 ## 1. 프로젝트 설명
 vanilla JS를 통해서 달력을 구현한 토이프로젝트
