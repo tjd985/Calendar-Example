@@ -1,0 +1,55 @@
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="keywords" content="calender" />
+    <meta name="description" content="vanilla coding calender example" />
+
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/reset-css@5.0.1/reset.min.css"
+    />
+    <link rel="stylesheet" href="./index.css" />
+    <script defer src="./index.js"></script>
+    “”
+
+    <title>calendar</title>
+  </head>
+
+  <body>
+    <h1 class="header">calender</h1>
+
+    <div class="center">
+      <h2 id="day">요일</h2>
+      <h2 id="date">일</h2>
+
+      <div>
+        <h3 id="month">월</h3>
+        <h3 id="year">년도</h3>
+      </div>
+    </div>
+
+    <div class="calendar">
+      <button id="prev">previous</button>
+
+      <table>
+        <thead>
+          <tr>
+            <th>SUN</th>
+            <th>MON</th>
+            <th>TUE</th>
+            <th>WED</th>
+            <th>THU</th>
+            <th>FRI</th>
+            <th>SAT</th>
+          </tr>
+        </thead>
+
+        <tbody></tbody>
+      </table>
+
+      <button id="next">next</button>
+    </div>
+  </body>
+</html>
