@@ -1,5 +1,7 @@
 # Calendar-Example
-![calendar 예제 사진]()
+<img width="718" alt="스크린샷 2023-07-24 17 33 21" src="https://github.com/tjd985/Calendar-Example/assets/48385389/0cf3106b-956e-4c0c-a961-ab498b2f9454">
+
+![calendar예제 gif](https://github.com/tjd985/Calendar-Example/assets/48385389/90805ae5-00d0-4b9b-86e7-f536cd837ae2)
 
 ## 1. 프로젝트 설명
 vanilla JS를 통해서 달력을 구현한 토이프로젝트
