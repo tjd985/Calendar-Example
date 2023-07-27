@@ -8,7 +8,7 @@ vanilla JS를 통해서 달력을 구현한 토이프로젝트
 <br><br><br>
 
 ## 2. 프로젝트 사용 언어
-JS
+Vanilla JS
 <br><br><br>
 
 ## 3. 기능
